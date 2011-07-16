@@ -9,6 +9,8 @@ public class principal {
 		// TODO Auto-generated method stub
 		System.out.println("=)");
 		System.out.println("Esto es divertido");
+		System.out.println("Esto ya no es es divertido =(");
+		
 
 	}
 
